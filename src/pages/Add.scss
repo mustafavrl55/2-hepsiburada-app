@@ -1,0 +1,25 @@
+.add {
+  width: 100%;
+  max-width: 380px;
+  margin: 16px auto;
+  .return{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    
+    svg{
+        margin-right: 6px;
+        
+    }
+  }
+  .link-name{
+    margin: 20px 0;
+  }
+  .add-button{
+    margin-top: 20px;
+    border-radius: 24px;
+    background-color: #000;
+    color: #fff;
+    padding: 6px 16px;
+  }
+}
